@@ -1,3 +1,3 @@
-module github.com/jvalsesia/variables
+module github.com/jvalsesia/gotraining
 
 go 1.18
