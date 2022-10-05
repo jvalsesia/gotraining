@@ -1,10 +1,10 @@
-package main
+package variables
 
 import (
 	"fmt"
 )
 
-func main() {
+func Exercise() {
 	// Declare variables that are set to their zero value.
 	var age int
 	var name string

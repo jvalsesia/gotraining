@@ -1,4 +1,4 @@
-package main
+package structtypes
 
 import "fmt"
 
@@ -8,7 +8,7 @@ type user struct {
 	age   int
 }
 
-func main() {
+func Exercise() {
 
 	u1 := user{
 		name:  "Benicio",
